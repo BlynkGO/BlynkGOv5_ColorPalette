@@ -1,4 +1,6 @@
 ## วิธีใช้
 
 คลิ้ก ที่สีที่ต้องการในตาราง  
-แล้วนำไปใช้ โดยกด Ctrl+V ใน Text Editor /IDE Editor ที่ใช้
+แล้วนำไปใช้ โดยกด **Ctrl+V** ใน Text Editor / IDE Editor ที่ใช้
+
+![วิธีใช้งาน](how_to_use.png)
